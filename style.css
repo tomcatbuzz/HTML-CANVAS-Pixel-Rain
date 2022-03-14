@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background: black;
+}
+
+#canvas1 {
+  border: 2px solid white;
+  position: absolute;
+  background: black;
+  width: 500px;
+  height: 706px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* #title1 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 5em;
+  line-height: 110px;
+  color: white;
+  white-space: nowrap;
+  border-top: 5px solid white;
+}
+
+#title1::before {
+  content: 'is awesome';
+  position: absolute;
+  bottom: -70px;
+  font-size: 0.5em;
+  text-align: center;
+  width: 100%;
+} */
